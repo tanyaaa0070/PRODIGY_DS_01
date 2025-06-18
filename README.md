@@ -64,9 +64,7 @@ Created bar and histogram plots using Python
 Derived insights about population distribution globally and among selected countries
 
 📁 Folder Structure
-arduino
-Copy
-Edit
+
 📦Task-01
 
  ┣ 📄 README.md

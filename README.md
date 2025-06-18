@@ -35,6 +35,7 @@ bash
 Copy
 Edit
 pip install pandas matplotlib seaborn
+
 📁 Steps Performed
 1. Dataset Loading
 CSV file downloaded from World Bank portal
@@ -47,8 +48,10 @@ Selected specific countries like India, China, USA, Brazil, etc.
 Extracted latest available year for analysis (e.g., 2022)
 
 3. Visualization
+4. 
 🟪 Bar Chart (Categorical)
 Visualizes population distribution for selected countries.
+
 
 🟦 Histogram (Continuous)
 Shows how population is distributed across all countries in the dataset.
@@ -65,6 +68,9 @@ arduino
 Copy
 Edit
 📦Task-01
+
  ┣ 📄 README.md
+ 
  ┣ 📄 population_analysis.ipynb
+ 
  ┗ 📄 World_Bank_Population.csv

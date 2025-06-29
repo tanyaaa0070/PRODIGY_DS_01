@@ -1,6 +1,6 @@
-# PRODIGY_DS_01
 
-📊 Task-01: Population Data Visualization
+
+📊  Population Data Visualization
 Internship Track: Data Science Intern at Prodigy InfoTech
 Track Code: PRODIGY_DS_01
 
